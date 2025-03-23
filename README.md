@@ -1,1 +1,1 @@
-# cs3157
+# COMS 3157 Advanced Programming @ Columbia University
